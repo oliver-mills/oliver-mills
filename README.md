@@ -1,4 +1,9 @@
-## Hi there 👋
+Hi there 👋
+
+Final-year Computer Science student at the University of Manchester.
+
+### Contact me
+[LinkedIn](https://linkedin.com/in/oliverjackmills) · oliver.j.mills@icloud.com
 
 <!--
 **oliver-mills/oliver-mills** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
