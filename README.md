@@ -1,8 +1,8 @@
-### Hi there 👋
+### hi there 👋
 
-I am Oliver and I am a Final-year Computer Science student at the University of Manchester.
+i am oliver and i am a final-year cs student at The University of Manchester.
 
-### Contact me
+### contact me!
 [LinkedIn](https://linkedin.com/in/oliverjackmills) · oliver.j.mills@icloud.com
 
 <!--
